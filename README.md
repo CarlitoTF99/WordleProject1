@@ -44,7 +44,7 @@ GIF created with ...
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+some of the challenges I had making this app were the making the text views and the buttoms dissapear and apaear again.
 
 ## License
 
